@@ -9,11 +9,10 @@ Hello! I'm Aditi Jain, a passionate Business Analytics student pursuing my maste
 - **Reading Fiction:** When I'm not diving into data, I love getting lost in fictional worlds, especially those crafted by my favorite author, Khaled Hosseini.
 
 🚀 **Career Aspirations**  
-I am actively seeking internship or entry-level roles that align with my interests in Business Analysis, Data Analytics, and Marketing Analytics. I am eager to bring my analytical skills and fresh perspectives to a dynamic team.
+I am actively seeking internship or entry-level roles that align with my interests in Business Analysis, Data Analytics, and Marketing Analytics.
 
 🌟 **Skills in Development**  
-- **PowerBI:** Currently, I am enhancing my data visualization skills with PowerBI, learning to create impactful and insightful dashboards.
-- **Figma:** Exploring Figma to understand the nuances of design and how it intersects with analytics.
+- **PowerBI:** , **Figma:**
 
 📚 **Let's Connect!**  
 Feel free to reach out if you have opportunities, want to collaborate on projects, or simply share insights and experiences in analytics and marketing. Let's learn and grow together!
